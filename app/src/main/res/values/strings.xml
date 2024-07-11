@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="faça_login">Faça seu login</string>
+    <string name="entre_info_cadastro">Entre com suas informações de cadastro.</string>
+    <string name="e_mail">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="lembre_me">Lembre-me</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="registre_se">Registre-se</string>
+    <string name="nao_tem_uma_conta">Não tem uma conta?</string>
+    <string name="esqueci_minha_senha">Esqueci minha senha</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="digite_seu_e_mail">Digite seu e-mail</string>
+    <string name="faca_seu_cadastro">Faça o seu cadastro</string>
+    <string name="info_solicitadas">Entre com as informações solicitadas:</string>
+    <string name="informe_usuario">Informe o nome de usuário</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="confira_prosseguir">Confira as informações antes de prosseguir!</string>
+</resources>
